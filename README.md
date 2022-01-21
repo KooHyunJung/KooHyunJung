@@ -1,6 +1,6 @@
 <div align=center> 
   <p>
-  <a href="https://velog.io/@ghj616" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://velog.io/@ghj616" target="_blank"><img src="https://img.shields.io/badge/Blog-FBB103?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:ghj3160@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ghj3160@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/ahlong180120/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-7B42BC?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
