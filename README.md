@@ -9,7 +9,7 @@
 <p>
   Hello I am a new developer.<br/>
   working on it based on Python DJango.<br/><br/>
-  I enjoy chess and computer game. <br/>
+  I enjoy chess, travel and mountaineering. <br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
