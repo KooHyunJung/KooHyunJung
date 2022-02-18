@@ -1,7 +1,7 @@
 <div align=center> 
   <p>
   <a href="mailto:ghj3160@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ghj3160@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="//" target="_blank"><img src="https://img.shields.io/badge/hyunjung-koo-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="//" target="_blank"><img src="https://img.shields.io/badge/hyunjung-koo-0a950a22b?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <p>
   
   Hello I am a new developer.<br/>
