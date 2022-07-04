@@ -3,11 +3,7 @@
   <a href="mailto:ghj3160@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ghj3160@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hyunjung-koo-0a950a22b/" target="_blank"><img src="https://img.shields.io/badge/hyunjungkoo|구현정-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <p>
-  
-  Hello I am a new developer.<br/>
-  working on it based on Python DJango.<br/><br/>
-  I enjoy chess, travel and mountaineering. <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KooHyunJung&show_icons=true&hide_border=true&&theme=react&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KooHyunJung&layout=compact&hide_border=true&theme=react)
