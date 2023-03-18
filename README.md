@@ -1,4 +1,4 @@
-<div align=center> 
+<div align=left> 
   <p>
   <a href="mailto:ghj3160@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ghj3160@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hyunjung-koo-0a950a22b/" target="_blank"><img src="https://img.shields.io/badge/hyunjungkoo|구현정-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -25,13 +25,17 @@
 </p>
   
 <p>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/FastApi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</p>
+
+
+<p>
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/FastApi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
 
 <p>
